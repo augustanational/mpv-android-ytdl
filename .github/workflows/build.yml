@@ -42,4 +42,4 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: mpv-android
-          path: app/build/outputs/apk/default/release/app-default-universal-release-unsigned.apk
+          path: app/build/outputs/apk/
